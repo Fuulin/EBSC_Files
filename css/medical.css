@@ -140,6 +140,7 @@ ul.price-table li {
 ul.price-table li span {
 	float: left;
 	font-weight: bold;
+    font-size: 16px;
 }
 
 ul.price-table li .value {
